@@ -1,0 +1,13 @@
+<div>
+	<input ng-model="uans" type="text"><button class="btn btn-success" type="submit" ng-click="validate()">Validate</button>
+	<button class="btn btn-success" type="submit" ng-click="nextHint()">Hints left: hint{{noOfHints-sHints.length}}</button>
+	<div class="hero-unit">
+		<h2>{{ question}}</h2>
+		<div ng-repeat="h in sHints">
+			<h3>{{h}}</h3><br/>
+		</div>
+		<h3>{{message}}</h3>
+	</div>
+	
+	
+</div>

@@ -1,0 +1,31 @@
+[{
+	"id":1,
+	"name": "IITB",
+	"imgUrl":"https://lh6.googleusercontent.com/-sqx7oWUwW9Y/AAAAAAAAAAI/AAAAAAAABIM/blvQ0z9Xcu0/s120-c/photo.jpg"
+},
+{
+	"id":2,
+	"name": "IIITH",
+	"imgUrl":"http://3.bp.blogspot.com/-uURpT0O4y0Q/T6Qjyfb4RCI/AAAAAAAABh4/Uf6LUAielWw/s1600/download+(5).jpg"
+},
+{
+	"id":3,
+	"name": "NITW",
+	"imgUrl":"http://3.bp.blogspot.com/-Uc0xLinW-a8/UNQKyDujY6I/AAAAAAAAEZs/kMWtjhzpdxY/s1600/NITWarangal-Results+Employmentcareer.blogspot+com.jpg"
+},
+{
+	"id":4,
+	"name": "IITD",
+	"imgUrl":"http://btis.iitd.ac.in/IITD-logo.gif"
+},
+{
+	"id":5,
+	"name": "MIT",
+	"imgUrl":"http://www.igert.org/system/projects/logos/145/profile/0801525.png?1311866757"
+},
+{
+	"id":6,
+	"name": "Stanford University",
+	"imgUrl":"https://lh5.googleusercontent.com/-9ZtfI7Iadbo/AAAAAAAAAAI/AAAAAAAAASM/pa_22SDQqFI/s120-c/photo.jpg"
+}
+]

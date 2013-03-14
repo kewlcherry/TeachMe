@@ -1,0 +1,15 @@
+<h2>{{course.name}}</h2>
+<div style="position:relative;height:150px;width: 150px;">
+	<img ng-src="{{course.imgUrl}}"/>
+</div>
+<i>Designed to learn in just {{course.duration}}</i>
+<h3>Curriculum</h3>
+<ol>
+	<li ng-repeat="section in course.sections">
+		{{section.name}} <i ng-class="'icon-facetime-video'"></i>
+		<!--icon-camera
+		icon-align-justify-->
+	</li>
+</ol>
+
+<button ng-click="joinCourse()" class="btn btn-success" type="submit">Join the course</button>

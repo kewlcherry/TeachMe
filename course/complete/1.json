@@ -1,0 +1,13 @@
+{
+	"id":1,
+	"name": "General Photography",
+	"imgUrl":"http://cdn1.iconfinder.com/data/icons/fliraneo/256/photo.png",
+	"duration": "2 hrs",
+	"completed": "50%",
+	"presentSession":"7283743",
+	"plugins":["test","playcard","practice"],
+	"sections":[{"id":"7283783","name":"Getting Started","resource-type":"pdf","completed":true},
+				{"id":"7283743","name":"Using Light","resource-type":"video","completed":true},
+				{"id":"7283759","name":"Portraiture","resource-type":"imgs","completed":false},
+				{"id":"7283709","name":"Advanced Photography techniques","resource-type":"video","completed":false}]
+}

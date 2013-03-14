@@ -1,0 +1,5 @@
+<div class="jumbotron masthead">
+    <div class="container">
+        <h1>Learn</h1>
+        <p> Teaching is now easy and learning is fun</p>
+	</div><div ng-view="test"></div>

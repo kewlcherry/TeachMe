@@ -1,0 +1,8 @@
+{
+	"id":"7283783",
+	"resourseType": "video",
+	"resource":[
+			{"text":"test-video","url":"http://www.youtube.com/embed/OXjq59whr-I"},
+			{"text":"test-video","url":"http://www.youtube.com/embed/RXTLo1Ulubc"}
+	]
+}

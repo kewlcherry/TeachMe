@@ -1,0 +1,12 @@
+
+<ul class="thumbnails">
+	<li ng-repeat="course in courses" >
+		<a href="#/course/{{course.id}}" class="thumbnail plain" style="width: 150px;text-decoration: none;position:relative;">
+			<div style="position:relative;height:150px;width: 150px;">
+				<img ng-src="{{course.imgUrl}}"/>
+				<div class="input-block-level" style="background-color: black;opacity: .5;color: #ffffff;padding: 3px; position:absolute;bottom:0px;">{{course.name}}</div>
+			</div>
+		</a>
+	</li>
+
+</ul>

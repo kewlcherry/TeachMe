@@ -1,0 +1,10 @@
+{
+	"id":1,
+	"name": "General Photography",
+	"imgUrl":"http://cdn1.iconfinder.com/data/icons/fliraneo/256/photo.png",
+	"duration": "2 hrs",
+	"sections":[{"name":"Getting Started","resource-type":"pdf"},
+				{"name":"Using Light","resource-type":"video"},
+				{"name":"Portraiture","resource-type":"pdf"},
+				{"name":"Advanced Photography techniques","resource-type":"video"}]
+}
